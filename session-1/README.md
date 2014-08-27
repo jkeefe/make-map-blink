@@ -35,19 +35,19 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 
 ##Applications to Journalism?
 
-- cicadas
-- clock your sleep
+- [cicadas](http://project.wnyc.org/cicadas/)
+- [clock your sleep](http://project.wnyc.org/sleep/)
 - what do you think?
 
 ##Demo: On screen
 
-- evacuation map
-- school zones
-- subway times
-- 911 tapes
-- 90 degree days chart
-- jay z subway chart
+- [evacuation map](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
+- [school zones](http://project.wnyc.org/speed-zones/)
+- [subway times](http://project.wnyc.org/transit-time/)
+- [911 tapes](http://project.wnyc.org/convent-fire/)
+- [90 degree days chart](http://project.wnyc.org/90-degree-days/)
+- [jay z subway chart](http://www.wnyc.org/story/285139-counting-the-jay-z-subway-crowd/)
 
 ##Make a Map
 
-- Germans in the US
+- [German Ancestry in the US](https://www.google.com/fusiontables/embedviz?q=select+col60%3E%3E1+from+1Rmt3EGkgiJkf0z94WW3gCl_KPwVZoin2wYdp6Fx0&viz=MAP&h=false&lat=37.66864382914768&lng=-92.68864934374999&t=1&z=5&l=col60%3E%3E1&y=2&tmplt=2&hml=KML)
