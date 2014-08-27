@@ -6,7 +6,7 @@
 
 Welcome to smorgasbord day! We'll sample a little bit of everything to give a taste of what's to come -- from data-driven blinkies to beautiful maps. You'll get to cook up some treats of your own, too.
 
-##Prep
+##JK Prep
 
 - Make text-to-screen (post as a google form?)
 - Make stretchy demo with led bar
