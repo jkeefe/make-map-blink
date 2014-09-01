@@ -5,7 +5,7 @@ Info, code and deets for the "Make, Map, Blink" sessions I'm teaching at The New
 
 Click into one of the session folders for more information and the files you need to do the activities at home.
 
-#CLASS 1: Demos Not Memos
+#Class 1: Demos Not Memos
 
 ##Intro
 
@@ -64,9 +64,9 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 
 ##Make a Pin Map
 
-- [German Ancestry in the US](https://www.google.com/fusiontables/embedviz?q=select+col60%3E%3E1+from+1Rmt3EGkgiJkf0z94WW3gCl_KPwVZoin2wYdp6Fx0&viz=MAP&h=false&lat=37.66864382914768&lng=-92.68864934374999&t=1&z=5&l=col60%3E%3E1&y=2&tmplt=2&hml=KML)
+- Update this(!)
 
-#CLASS 2: Cupboards, Candles & Choropleths
+#Class 2: Cupboards, Candles & Choropleths
 
 ##JK prep
 
@@ -118,7 +118,7 @@ Software to help you process your data and projects. Usually downloaded, often f
 - shopping list above (in the cupboard section!)
 - intro to a simple sensor
 
-#SESSION 3
+#Class 2
 
 ##90° Days
 
