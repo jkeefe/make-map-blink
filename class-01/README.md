@@ -21,7 +21,7 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 
 ##Files, slides and code used in this class
 
-[Class 1: Demos Not Memos](https://github.com/jkeefe/make-map-blink/tree/master/session-01)
+[Class 1: Demos Not Memos](https://github.com/jkeefe/make-map-blink/tree/master/class-01)
 
 ##Attendance App
 
