@@ -25,7 +25,7 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 
 ##On-The-Fly Data Collection
 
-- Journalism sign-in sheet ([pdf here](https://github.com/jkeefe/make-map-blink/blob/master/class-01/sign-in-sheet.pdf))
+- Journalism sign-in sheet ([pdf here](https://github.com/jkeefe/make-map-blink/blob/master/class-01/journ-sign-in-sheet.pdf?raw=true))
 - Let's Google Forms-it!
     * http://drive.google.com
     * -> Create -> Form
