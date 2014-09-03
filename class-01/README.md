@@ -40,8 +40,8 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 ##Demo: On table
 
 * Simple blink
-* snowflake
 * Minecraft matrix
+* snowflake
 * Stretch resistor
 * light sensor
 * heartbeat hoodie
