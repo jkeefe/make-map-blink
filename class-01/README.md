@@ -23,7 +23,18 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 - the code is [here](https://github.com/jkeefe/projects-johnkeefe-net/blob/master/server.js)
 - quick hello to git
 
-##Make Led Throwies
+##On-The-Fly Data Collection
+
+- Journalism sign-in sheet ([pdf here](https://github.com/jkeefe/make-map-blink/blob/master/class-01/sign-in-sheet.pdf))
+- Let's Google Forms-it!
+    * http://drive.google.com
+    * -> Create -> Form
+    * Build the questions
+    * View live form
+- Shorten that link
+- Fill it out (please)
+
+##Make LED Throwies
 
 - deets at [http://www.instructables.com/id/LED-Throwies/](http://www.instructables.com/id/LED-Throwies/)
 - I get LEDs from [Evil Mad Scientist](http://shop.evilmadscientist.com/productsmenu/partsmenu/383-allled?qh=YTo0OntpOjA7czo0OiJsZWRzIjtpOjE7czozOiJsZWQiO2k6MjtzOjY6ImxlZHMnLCI7aTozO3M6NToibGVkJ3MiO30%3D)
@@ -41,7 +52,7 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 * heartbeat hoodie
 * sleep monitor
 
-##Applications to Journalism?
+###Applications to Journalism?
 
 - [cicadas](http://project.wnyc.org/cicadas/)
 - [clock your sleep](http://project.wnyc.org/sleep/)
@@ -55,7 +66,7 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 - [90 degree days chart](http://project.wnyc.org/90-degree-days/)
 - [911 tapes](http://project.wnyc.org/convent-fire/)
 
-##Pins on a Map: Quick Intro
+##Make: Pins on a Map
 
 ###Example: Mad Men Map
 [http://www.wnyc.org/articles/features/2012/jun/04/map-new-york-city-mad-men/](http://www.wnyc.org/articles/features/2012/jun/04/map-new-york-city-mad-men/)
@@ -82,10 +93,12 @@ Gives you four sample columns. You can have many more, or many fewer. And we onl
 
 - From MAP tab, pick "Change Map Styles ..."
 
-##Make a Pin Map: Kindergarten Waitlists
+##Make: Story Map with Pins
 
-###You'll need the bundle of files at: 
-[http://jkef.me/mapping-workshop](http://jkef.me/mapping-workshop) (which points [here](https://github.com/jkeefe/mapping-workshop-data/archive/master.zip) ) Unzip them and put them in a place you'll remember.
+(If we have time)
+
+###You'll need the csv file above:
+Right-click and download `waitlist-with-addresses.csv` 
 
 ###Finished story
 [Lengthy Kindergarten Wait Lists Unveiled as Applicants Increase](http://www.wnyc.org/articles/wnyc-news/2012/apr/06/kindergarten-applicants-continue-grow-another-year-long-waiting-lists/)
