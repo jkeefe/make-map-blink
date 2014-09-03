@@ -31,7 +31,7 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 - Crazy-strong [rare-earth magnets](http://www.amazon.com/BYKES-Neodymium-Extremly-Powerful-Refrigerator/dp/B00I53PPS6/ref=sr_1_18?s=industrial&ie=UTF8&qid=1409539170&sr=1-18&keywords=bykes+technologies%C2%AE)
 - Tape!
 
-##Demo: On table
+##Demos: On table
 
 * Simple blink
 * snowflake
@@ -52,9 +52,35 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 - [evacuation map](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
 - [school zones](http://project.wnyc.org/speed-zones/)
 - [subway times](http://project.wnyc.org/transit-time/)
-- [911 tapes](http://project.wnyc.org/convent-fire/)
 - [90 degree days chart](http://project.wnyc.org/90-degree-days/)
-- [jay z subway chart](http://www.wnyc.org/story/285139-counting-the-jay-z-subway-crowd/)
+- [911 tapes](http://project.wnyc.org/convent-fire/)
+
+##Pins on a Map: Quick Intro
+
+###Example: Mad Men Map
+[http://www.wnyc.org/articles/features/2012/jun/04/map-new-york-city-mad-men/](http://www.wnyc.org/articles/features/2012/jun/04/map-new-york-city-mad-men/)
+
+###Create a new, blank FT
+
+- Go to [http://drive.google.com](http://drive.google.com) and login with your Google ID
+- -> Create
+- -> Fusion Table (If it's not there, use "Connect More Apps" and search for "Fusion Table")
+- -> Create Empty Table
+
+Gives you four sample columns. You can have many more, or many fewer. And we only need two of these, anyway. 
+
+###Now let's add info:
+
+- Click on the blank row
+- Put "This is where I work" in the Text box
+- Put "160 Varick Street, New York, NY 10013" in Address
+- Edit -> Add row
+- Put "This is ... whatever you want"
+- View in MAP tab.
+
+###Change the icons.
+
+- From MAP tab, pick "Change Map Styles ..."
 
 ##Make a Pin Map: Kindergarten Waitlists
 
@@ -69,9 +95,9 @@ Welcome to demo day! We'll put out a smorgasbord of digital delights to give you
 
 Hocus-pocus: I turned the PDF into text, and then merged it on the school number with the school data spreadsheet [here](http://schools.nyc.gov/Offices/EnterpriseOperations/DIIT/OOD/default.htm) to make the `waitlist-with-addresses.csv` file in the bundle you downloaded above.
 
-##Steps
+###Steps
 
-###Upload the CSV to Google Fusion Tables
+Upload the CSV to Google Fusion Tables
    
 - Go to [http://drive.google.com](http://drive.google.com) and login with your Google ID
 - -> Create
