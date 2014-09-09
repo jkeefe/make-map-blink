@@ -5,31 +5,114 @@ Info, code and deets for the "Make, Map, Blink" sessions I'm teaching at The New
 
 Click into one of the session folders for more information and the files you need to do the activities at home.
 
-#Class 2: Cupboards, Candles & Choropleths
+#Class 2: I *promised* we would cook stuff!
 
 ##JK prep
 
-- write up cupboard doc
-- outline steps for activities
-- try candle without solder
-- get parts and tape
-- link to blog post
+- count LEDs
+- get ingerdients
+- Get 9v batteries
+- Get aligator clip wires
 
 ##Intro
 
-Blinky building and map making continue -- with yet another take-away treat! First we'll build a map to spot a national phenomenon. Bring a laptop if you'd like to try your hand as we go. Next, we'll build a new blinky with a super-simple sensor. First-timers always welcome!
+First we'll pour a bunch of data onto a map of the United States to see people-patterns emerge. Bring a laptop if you'd like to try your hand as we go. Next we'll cook up a recipe for playing with LEDs using kitchen ingredients. And that's no metaphor! Come play with homemade conductive dough.
+
+##Make a Choropleth Map: German Ancestry in the US
+
+Introduction to blending Shapes + Data, using zip codes. (Slide deck)
+
+For our project ...
+
+- The *shapes* are US Counties. 
+- The *data* is percentage of people in the county of German ancestry
+- The *join* is the FIPS code (unique for each county)
+
+###Upload Ancestry Data to Google Fusion Tables
+
+I downloaded this data from the US Census Bureau web site. You can get it using the CSV this github folder: [german_ancestry.csv](https://github.com/jkeefe/make-map-blink/blob/master/class-02/german_ancestry.csv?raw=true)
+
+Upload the CSV to Google Fusion Tables:
+    
+- http://drive.google.com
+- -> Create
+- -> Fusion Table
+- -> Chose File
+- -> german_ancestry.csv
+- -> Next
+- -> Next
+- -> Finish
+    
+OK! Now we need the county SHAPES:
+
+- Also can get from census
+- I have a shapefile in this github folder as [us_counties.zip](https://github.com/jkeefe/make-map-blink/blob/master/class-02/us_counties.zip?raw=true)
+- But WAIT!
+    
+Quick digression about SHP vs KML
+
+- Difference between the two
+- Can convert one to the other using 
+    - cartodb.com (upload as SHP in a zip file, Export as KML)
+    - shpescape.com (slower, but drops it right into Fusion Table)
+
+I've given you a converted file as us_counties.kml
+
+- You can upload it, like you did the CSV (Fusion tables accept KML files)
+- BUT WAIT AGAIN! I've already done that, too
+- I already uploaded it to fusion tables and then made it public using "Share"
+- Open a new tab and view it at http://jkef.me/us-map-ft
+- Click on "Map of Geometry" tab
+        
+Let's put them together!
+
+- Be on the ancestry data tab
+- File -> Merge
+- Go copy the URL from the map tab and come back
+- Paste it into the thin box at the bottom
+- Next
+- Need to tell Fusion Tables what data columns should be matched. Use these:
+    - "id2"
+    - "fips"
+- Next
+- Merge
+- Click on the link for the new table
+- See the merged data!
+- Go to "Map of Geometry" tab
+- Don't freak out if you see dots instead of counties (I did), just zoom in a click or two
+    
+Make it pretty (and interesting)
+
+- "Map of Geometry" -> Change map
+- New column on the left side (may have already been open)
+- Feature Map -> Change feature styles...
+- Polygons -> Fill Color -> Buckets
+- Divide into 5 buckets
+- Column: pct_german
+- Click: Use this range
+
+- Go back to try the gradient
+- Feature Map -> Change feature styles... (I like to make the opacities 100% to demo)
+ 
+- Add a legend
+- Feature Map -> Change feature styles... -> Legend -> Automatic legend
+
+- Fix the info window
+
+- Share it!
+    Share -> Make it public
+    ALSO:
+    "Map of Geometry" -> Publish ...
+        Gives you
+            link
+            embed code
+            html & javascript
+
+##Brain Break!
 
 ##For Your Cupboard
 
 Digital kitchenware that's great to have on hand for cooking up data projects. New items added each class, as they are used. The growing list is [here](link). 
-
-###Ingredients
-Physical items you can buy to build your own blinkies. (Always fun, never mandatory.)
-
-- [Candle-flicker LEDs](http://shop.evilmadscientist.com/productsmenu/partsmenu/408)
-- [Coin-cell Battery Holder](https://www.sparkfun.com/products/8822)
-- [Tilt Sensors](https://www.sparkfun.com/products/10289)
-- [Copper Foil Tape](https://www.adafruit.com/products/1128)
 
 ###Utensils
 Simple services you should sign up for to make thing easier to cook online Often free. 
@@ -43,16 +126,20 @@ Simple services you should sign up for to make thing easier to cook online Often
 - A domain name. Preferably your own name! I use [myhosting.com](http://myhosting.com)
 	- Don't get the full hosting; just a "parked" domain for now
 
-###Appliances
-Software to help you process your data and projects. Usually downloaded, often free.
+###Buy now, use in future classes
+(shopping list from hackshackers event)
 
-- None this week
+- Arduino Uno
+- Breadboard?
+- Cable
 
-##Make a Choropleth Map
 
-- Germans in the US
+##Make Conductive Dough
 
-##Make LED Candles
+* Cook it up for reals.
+* What's going on?
+* Resistance
+* Show the stretchy wire again; other examples
+* RGB LEDs
 
-- shopping list above (in the cupboard section!)
-- intro to a simple sensor
+
