@@ -21,6 +21,7 @@ Blinky building and map making continue. First we'll get our computers to count 
 ##Mapping: Points in a Polygon
 
 ==> DATA SHORTLINK: [http://jkef.me/mapping-workshop](http://jkef.me/mapping-workshop)
+
 ==> FILES USED: prek_sites_seats_demo.csv, nynta.zip
 
 Challenge: Determine Pre-K availability, by NYC neighborhood
