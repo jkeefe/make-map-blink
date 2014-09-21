@@ -114,8 +114,6 @@ Simple services you should sign up for to make thing easier to cook online Often
 - A blog if you don't have one. So you can embed and show your work.
 	- [Tumblr](http://tumblr.com) is a good one. 
 	- I use [Posthaven](http://posthaven.com).
-- [Github](http://github.com) to store and share your code
-- [Github Pages](https://pages.github.com/) A free place to host your web pages
 - A domain name. Preferably your own name! I use [myhosting.com](http://myhosting.com)
 	- Don't get the full hosting; just a "parked" domain for now
 
@@ -123,14 +121,14 @@ Simple services you should sign up for to make thing easier to cook online Often
 (shopping list from hackshackers event)
 
 - Arduino Uno
-- Breadboard?
 - Cable
-
+- Get them together here: [https://www.sparkfun.com/wish_lists/83994](https://www.sparkfun.com/wish_lists/83994)
 
 ##Make Conductive Dough
 
 * [Recipe here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm)
 * Cook it up for reals.
+* [Recipe here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm)
 * What's going on?
 * Resistance
 * Show the stretchy wire again; other examples
