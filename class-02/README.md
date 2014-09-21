@@ -7,13 +7,6 @@ Click into one of the session folders for more information and the files you nee
 
 #Class 2: I *promised* we would cook stuff!
 
-##JK prep
-
-- count LEDs
-- get ingerdients
-- Get 9v batteries
-- Get aligator clip wires
-
 ##Intro
 
 First we'll pour a bunch of data onto a map of the United States to see people-patterns emerge. Bring a laptop if you'd like to try your hand as we go. Next we'll cook up a recipe for playing with LEDs using kitchen ingredients. And that's no metaphor! Come play with homemade conductive dough.
@@ -136,6 +129,7 @@ Simple services you should sign up for to make thing easier to cook online Often
 
 ##Make Conductive Dough
 
+* [Recipe here](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/conductiveDough.htm)
 * Cook it up for reals.
 * What's going on?
 * Resistance
